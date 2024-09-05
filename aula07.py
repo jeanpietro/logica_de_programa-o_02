@@ -12,4 +12,4 @@ os.system('cls')
 comp,soma = soma_lista(x)
 
 print(f'Há {comp} números impares entre 1 e {x}')
-print(f'A soma deles é igual á: {soma}') 
+print(f'A soma deles é igual á: {soma}')   

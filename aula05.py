@@ -32,7 +32,7 @@ print(nomes)
 # remove um item de acordo com o indice informado
 nomes.pop()
 nomes.pop(-2)
-print(nomes)
+print(nomes) 
 
 # remove mais de um elemento da lista
 del nomes[:5]
